@@ -109,6 +109,7 @@
 -define:ENABLE_UNITY_COLLECTIONS_CHECKS
 -define:ENABLE_BURST_AOT
 -define:UNITY_TEAM_LICENSE
+-define:UNITY_PRO_LICENSE
 -define:ENABLE_CUSTOM_RENDER_TEXTURE
 -define:ENABLE_DIRECTOR
 -define:ENABLE_LOCALIZATION
@@ -347,10 +348,22 @@
 "Assets/BUT Project/Scripts/[starter]/Movement/CameraMovementOrbital.cs"
 "Assets/BUT Project/Scripts/[starter]/Movement/Movement.cs"
 "Assets/BUT Project/Scripts/[starter]/Movement/PlayerMovement.cs"
+"Assets/GhostCharacter_Free/Scripts/GhostScript.cs"
+"Assets/Nokobot/Modern Guns - Handgun/_Demo Assets/SimpleShoot.cs"
+"Assets/Script/Bullet.cs"
+"Assets/Script/Cle.cs"
+"Assets/Script/Coffre.cs"
+"Assets/Script/EnemyHealth.cs"
+"Assets/Script/EnemyPatrol.cs"
 "Assets/Script/GameManager.cs"
+"Assets/Script/JoueurInventaire.cs"
 "Assets/Script/KillableX.cs"
 "Assets/Script/OnTriggerKillX.cs"
+"Assets/Script/Piece.cs"
+"Assets/Script/PlayerShooting.cs"
 "Assets/Script/RotateObject.cs"
+"Assets/Script/Teleporteur.cs"
+"Assets/Script/WeaponPickup.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"
