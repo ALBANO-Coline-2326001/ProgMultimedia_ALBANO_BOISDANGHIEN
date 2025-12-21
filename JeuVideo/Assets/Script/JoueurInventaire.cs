@@ -35,7 +35,7 @@ public class JoueurInventaire : MonoBehaviour
 
         if (texteCleUI != null)
         {
-            texteCleUI.text = aLaCle ? "Clé récupéré" : "Clé non récupéré";
+            texteCleUI.text = aLaCle ? "Clé récupérée" : "Clé non récupérée";
         }
     }
 }
